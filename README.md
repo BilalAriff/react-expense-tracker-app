@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Panacloud Bootcamp 2020
+## Project #1 - Expense Tracker App
+
+This app is built using hooks and ContextAPI,
+
 
 ## Available Scripts
 
